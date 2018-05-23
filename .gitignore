@@ -1,0 +1,5 @@
+data/common.inc.php
+data/common.inc.php-dist
+*.swp
+*.swo
+*.bak
